@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @0MUN0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Abdullaa 👋
 
-<!---
-0MUN0/0MUN0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Student & Software Hobbyist | Building solutions out of passion and curiosity.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** C# ,C++
+- **Frameworks & Tools:** .NET, WPF, Git, SQL
+
+---
+
+### 🚀 Featured Projects
+
+
+---
+
+📫 **Let's connect!**
+- Email: A.mun00eer@gmail.com
