@@ -6,7 +6,7 @@ Student & Software Hobbyist | Building solutions out of passion and curiosity.
 
 ### 🛠️ Tech Stack
 - **Languages:** C# ,C++
-- **Frameworks & Tools:** .NET, WPF, Git, SQL
+- **Frameworks & Tools:** .NET, WPF, Git, SQL, EF
 
 ---
 
