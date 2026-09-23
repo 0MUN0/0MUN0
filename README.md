@@ -11,7 +11,7 @@ Student & Software Hobbyist | Building solutions out of passion and curiosity.
 ---
 
 ### 🚀 Featured Projects
-- **Ces-Platform
+- **Ces-Platform**
 
 ---
 
